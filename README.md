@@ -1,0 +1,1 @@
+# Azure-Guardrail-catch-risky-Terraform-settings-before-they-reach-the-cloud
